@@ -1,7 +1,9 @@
 # Shortcuts
 alias shrug="echo '¯\_(ツ)_/¯' | pbcopy"
 
-
+# Lazy
+alias lg="lazygit"
+alias ld="lazydocker"
 
 # Git
 alias gst="git status"

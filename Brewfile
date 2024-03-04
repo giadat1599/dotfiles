@@ -1,4 +1,5 @@
 # Taps
+tap 'homebrew/bundle'
 tap 'homebrew/cask'
 
 
@@ -7,6 +8,8 @@ brew 'node'
 brew 'git'
 brew 'grep'
 brew 'jq'
+brew 'jesseduffield/lazygit/lazygit'
+brew 'jesseduffield/lazydocker/lazydocker'
 
 # Apps
 cask 'visual-studio-code'
@@ -18,3 +21,10 @@ cask 'google-chrome'
 cask 'spotify'
 cask 'tableplus'
 cask 'slack'
+cask 'zalo'
+cask 'postman'
+cask 'messenger'
+cask 'gotiengviet'
+cask 'iterm2'
+
+

@@ -19,10 +19,8 @@ fi
 # ln -s .zshrc $HOME/.zshrc
 
 
-# Update Homebrew
+# Update Homebrew and install deps
 brew update
-# Install all our dependencies with bundle (See Brewfile)
-brew tap homebrew/bundle
 brew bundle --file ./Brewfile
 
 echo "Your Mac has been setup successfully"
