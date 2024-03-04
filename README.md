@@ -1,0 +1,1 @@
+## My MacOS setting preferences (Still under construction 🚧)
